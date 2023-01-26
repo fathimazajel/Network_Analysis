@@ -9,9 +9,10 @@ The network was then partitioned using different algorithms to see whether the r
 
 Original Data file from: http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm
 
-My Module:
+My Module:https://github.com/fathimazajel/Network_Analysis
 
-Quick Look Report:
+Quick Look Report:https://github.com/fathimazajel/Network_Analysis/tree/main/input
+https://github.com/fathimazajel/Network_Analysis/tree/main/output
 
 
 Reference: Zachary W. (1977). An information flow model for conflict and fission in small groups. Journal of Anthropological Research, 33, 452-473.
